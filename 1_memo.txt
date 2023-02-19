@@ -1,3 +1,3 @@
-./../../../../images
+https://bnwhaled.github.io/images
 
-<https://bnwhaled.github.io>
+https://bnwhaled.github.io/images
